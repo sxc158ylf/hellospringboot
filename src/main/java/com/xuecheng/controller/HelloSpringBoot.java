@@ -10,6 +10,13 @@ public class HelloSpringBoot {
     @RequestMapping("/springboot")
     public String helloSpringBoot() {
         System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
         return "Hello Spring Boot!";
     }
 }
