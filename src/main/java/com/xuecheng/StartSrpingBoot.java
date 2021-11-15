@@ -8,5 +8,6 @@ public class StartSrpingBoot {
 
     public static void main(String[] args) {
         SpringApplication.run(StartSrpingBoot.class, args);
+        System.out.println();
     }
 }
